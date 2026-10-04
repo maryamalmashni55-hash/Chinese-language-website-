@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Sparkles } from 'lucide-react';
+import { BookOpen, Sparkles, Download } from 'lucide-react';
 import { Language } from '../types';
 import { UI_STRINGS } from '../translations/ui';
 
@@ -126,6 +126,21 @@ export const Footer: React.FC<Props> = ({ lang, onSelectTab, onSelectLesson }) =
           <div>
             © {new Date().getFullYear()} {t.siteTitle} • {t.allRightsReserved}
           </div>
+
+          <a
+            href="/standalone.html"
+            download="index.html"
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-stone-900 hover:bg-stone-800 text-amber-300 font-bold border border-amber-500/30 transition-all shadow"
+            title={lang === 'ar' ? 'تحميل المشروع كملف HTML واحد مستقل' : 'Download Single Self-Contained HTML File'}
+          >
+            <Download className="w-3.5 h-3.5" />
+            <span>
+              {lang === 'ar'
+                ? 'تحميل كملف HTML مستقل (Single File)'
+                : 'Download Standalone HTML (Single File)'}
+            </span>
+          </a>
+
           <div className="font-['Noto_Serif_SC',serif] text-amber-400 font-bold tracking-widest text-xs">
             万里长城 · 学无止境
           </div>
