@@ -63,7 +63,7 @@ export const HeroBanner: React.FC<Props> = ({
           你的中文学习之路 · 万里长城 · 桃李满天下
         </div>
 
-        {/* Dedicated Names Box: Student Maryam Al-Meshni & Teacher Laila */}
+        {/* Dedicated Names Box: Student Maryam Al-Meshni & Teacher Qiang yuhan */}
         <div className="mt-7 inline-flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-8 px-7 py-4 rounded-2xl bg-[#1d0608]/90 border border-amber-400/50 backdrop-blur-md shadow-2xl">
           {/* Student */}
           <div className="flex items-center gap-2.5">
@@ -83,7 +83,7 @@ export const HeroBanner: React.FC<Props> = ({
               Teacher:
             </span>
             <span className="text-base sm:text-lg font-bold text-amber-300 font-['Cinzel',serif] tracking-wide border-b border-amber-400/40">
-              Teacher Laila
+              Qiang yuhan
             </span>
           </div>
         </div>

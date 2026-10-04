@@ -56,7 +56,7 @@ export const Header: React.FC<Props> = ({
                 <span className="text-stone-300 font-medium flex items-center gap-1">
                   <span className="text-stone-400">Teacher:</span>
                   <span className="font-semibold text-amber-300 font-['Cinzel',serif] border-b border-amber-400/40">
-                    Teacher Laila
+                    Qiang yuhan
                   </span>
                 </span>
               </div>

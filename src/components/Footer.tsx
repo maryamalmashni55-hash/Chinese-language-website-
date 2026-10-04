@@ -33,7 +33,7 @@ export const Footer: React.FC<Props> = ({ lang, onSelectTab, onSelectLesson }) =
               {t.welcomeDesc}
             </p>
 
-            {/* Names Card: Student Maryam Al-Meshni & Teacher Laila */}
+            {/* Names Card: Student Maryam Al-Meshni & Teacher Qiang yuhan */}
             <div className="p-3.5 rounded-xl bg-[#140406] border border-amber-500/30 max-w-md">
               <div className="text-xs text-stone-200 space-y-1">
                 <div>
@@ -42,7 +42,7 @@ export const Footer: React.FC<Props> = ({ lang, onSelectTab, onSelectLesson }) =
                 </div>
                 <div>
                   <span className="text-stone-400">Teacher: </span>
-                  <strong className="text-amber-300 font-['Cinzel',serif]">Teacher Laila</strong>
+                  <strong className="text-amber-300 font-['Cinzel',serif]">Qiang yuhan</strong>
                 </div>
               </div>
             </div>

@@ -281,7 +281,7 @@ export const CURRICULUM_UNITS: Unit[] = [
         dialogue: [
           {
             id: 'u1-l2-d1',
-            speaker: 'المعلمة ليلى (Teacher Laila)',
+            speaker: 'المعلمة (Teacher Qiang yuhan)',
             hanzi: '你们班有多少个学生？',
             pinyin: 'Nǐmen bān yǒu duōshao gè xuésheng?',
             arabic: 'كم طالباً يوجد في فصلكم؟',
@@ -297,7 +297,7 @@ export const CURRICULUM_UNITS: Unit[] = [
           },
           {
             id: 'u1-l2-d3',
-            speaker: 'المعلمة ليلى (Teacher Laila)',
+            speaker: 'المعلمة (Teacher Qiang yuhan)',
             hanzi: '有几个男生，几个女生？',
             pinyin: 'Yǒu jǐ gè nánshēng, jǐ gè nǚshēng?',
             arabic: 'كم فتى وكم فتاة؟',
@@ -822,7 +822,7 @@ export const CURRICULUM_UNITS: Unit[] = [
           },
           {
             id: 'u4-l7-d2',
-            speaker: 'المعلمة ليلى (Teacher Laila)',
+            speaker: 'المعلمة (Teacher Qiang yuhan)',
             hanzi: '认识你很高兴！欢迎你。',
             pinyin: 'Rènshi nǐ hěn gāoxìng! Huānyíng nǐ.',
             arabic: 'مسرورة جداً بالتعرف عليك! مرحباً بك.',
@@ -1089,7 +1089,7 @@ export const CURRICULUM_UNITS: Unit[] = [
         dialogue: [
           {
             id: 'u5-l10-d1',
-            speaker: 'المعلمة ليلى (Teacher Laila)',
+            speaker: 'المعلمة (Teacher Qiang yuhan)',
             hanzi: '请喝茶！这是上好的中国绿茶。',
             pinyin: 'Qǐng hē chá! Zhè shì shànghǎo de Zhōngguó lǜchá.',
             arabic: 'تفضلوا بالشاي! هذا شاي أخضر صيني من أجود الأنواع.',
@@ -1103,7 +1103,7 @@ export const CURRICULUM_UNITS: Unit[] = [
           },
           {
             id: 'u5-l10-d3',
-            speaker: 'المعلمة ليلى (Teacher Laila)',
+            speaker: 'المعلمة (Teacher Qiang yuhan)',
             hanzi: '中国人常说：以茶会友。',
             pinyin: 'Zhōngguó rén cháng shuō: yǐ chá huì yǒu.',
             arabic: 'يقول الصينيون دائماً: نصنع الصداقات ونلتقي الأصحاب على كأس الشاي.',
@@ -1279,7 +1279,7 @@ export const CURRICULUM_UNITS: Unit[] = [
           },
           {
             id: 'u6-l12-d2',
-            speaker: 'المعلمة ليلى (Teacher Laila)',
+            speaker: 'المعلمة (Teacher Qiang yuhan)',
             hanzi: '今天不要上课了，好好休息。祝你早日康复！',
             pinyin: 'Jīntiān bú yào shàngkè le, hǎohao xiūxi. Zhù nǐ zǎorì kāngfù!',
             arabic: 'لا تحضري الصف اليوم، استريحي جيداً. أتمنى لك الشفاء العاجل!',
@@ -1378,7 +1378,7 @@ export const CURRICULUM_UNITS: Unit[] = [
           },
           {
             id: 'u7-l13-d2',
-            speaker: 'المعلمة ليلى (Teacher Laila)',
+            speaker: 'المعلمة (Teacher Qiang yuhan)',
             hanzi: '过去有很多灰砖灰瓦的四合院和安静的胡同。',
             pinyin: 'Guòqù yǒu hěn duō huīzhuān huīwǎ de sìhéyuàn hé ānjìng de hútòng.',
             arabic: 'في الماضي كان هناك العديد من البيوت التقليدية ذات الفناء الرباعي والأزقة الهادئة.',
@@ -1462,7 +1462,7 @@ export const CURRICULUM_UNITS: Unit[] = [
           },
           {
             id: 'u7-l14-d2',
-            speaker: 'المعلمة ليلى (Teacher Laila)',
+            speaker: 'المعلمة (Teacher Qiang yuhan)',
             hanzi: '时速可达三百五十公里，非常平稳方便。',
             pinyin: 'Shísù kě dá sānbǎi wǔshí gōnglǐ, fēicháng píngwěn fāngbiàn.',
             arabic: 'تصل سرعته إلى 350 كيلومتراً في الساعة، وهو هادئ ومريح وعملي جداً.',
@@ -1554,7 +1554,7 @@ export const CURRICULUM_UNITS: Unit[] = [
         dialogue: [
           {
             id: 'u8-l15-d1',
-            speaker: 'المعلمة ليلى (Teacher Laila)',
+            speaker: 'المعلمة (Teacher Qiang yuhan)',
             hanzi: '暑假你有什么打算？',
             pinyin: 'Shǔjià nǐ yǒu shénme dǎsuan?',
             arabic: 'ما هي خطتك للعطلة الصيفية؟',
@@ -1568,7 +1568,7 @@ export const CURRICULUM_UNITS: Unit[] = [
           },
           {
             id: 'u8-l15-d3',
-            speaker: 'المعلمة ليلى (Teacher Laila)',
+            speaker: 'المعلمة (Teacher Qiang yuhan)',
             hanzi: '好志气！俗话说：不到长城非好汉。',
             pinyin: 'Hǎo zhìqì! Súhuà shuō: bú dào Chángchéng fēi hǎohàn.',
             arabic: 'عزيمة رائعة! وكما يقول المثل الصيني الشهير: من لم يصعد سور الصين العظيم فليس بطلاً حقيقياً.',
@@ -1638,7 +1638,7 @@ export const CURRICULUM_UNITS: Unit[] = [
         dialogue: [
           {
             id: 'u8-l16-d1',
-            speaker: 'المعلمة ليلى (Teacher Laila)',
+            speaker: 'المعلمة (Teacher Qiang yuhan)',
             hanzi: '玛丽亚姆，你未来的梦想是什么？',
             pinyin: 'Mǎlìyàmǔ, nǐ wèilái de mèngxiǎng shì shénme?',
             arabic: 'يا مريم، ما هو حلمك في المستقبل؟',
@@ -1652,7 +1652,7 @@ export const CURRICULUM_UNITS: Unit[] = [
           },
           {
             id: 'u8-l16-d3',
-            speaker: 'المعلمة ليلى (Teacher Laila)',
+            speaker: 'المعلمة (Teacher Qiang yuhan)',
             hanzi: '太伟大了！老师祝你梦想成真！',
             pinyin: 'Tài wěidà le! Lǎoshī zhù nǐ mèngxiǎng chéngzhēn!',
             arabic: 'حلم عظيم ونبيل! أتمنى لك من كل قلبي أن يتحقق حلمك الجميل!',
